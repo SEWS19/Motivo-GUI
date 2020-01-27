@@ -1,0 +1,3 @@
+{
+    "files": ["MotivoGUI.py","UI/mainwindow.ui","basicdialog.ui","UI/advanceddialog.ui","MotivoAccess.py","AdvancedDialog.py","UI/userpreferencesdialog.ui","UI/basicdialog.ui","getUiFromFile.py","main.py","mainwindow.ui","MotivoParameters.py","BasicDialog.py","UserPreferencesDialog.py","advanceddialog.ui","definitions.py","ResultsExporter.py","ResultVisualizer.py", "ConvertTxtToBinaryDialog.py"]
+}
