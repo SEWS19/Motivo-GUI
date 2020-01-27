@@ -40,7 +40,8 @@ To Install the dependencies,
 Run the following commands
 
 ~~~
-
+# Motivo 
+Follow direction [here](https://bitbucket.org/steven_/motivo/src/default/)
 # Qt 
 apt-get install -y qtbase5-dev
 
