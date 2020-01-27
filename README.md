@@ -26,14 +26,9 @@ MotivoGUI depends on the following libraries:
 - [SvgLib](https://github.com/deeplook/svglib),
 
 
-# Licences:
-## GPLV 3
- Motivo, MIT   
- Pyside, LGPLV3  
- Qt, LGPLV3   
- SVGLIB, GPLV3  
- REPORTLAB, BSD-3   
-
+# Licence:
+### GPLV3
+see Licence.txt
 
 # Setup 
 To Install the dependencies, 
@@ -41,7 +36,7 @@ Run the following commands
 
 ~~~
 # Motivo 
-Follow direction [here](https://bitbucket.org/steven_/motivo/src/default/)
+Follow direction (https://bitbucket.org/steven_/motivo/src/default/)
 # Qt 
 apt-get install -y qtbase5-dev
 
