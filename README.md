@@ -51,6 +51,6 @@ pip3 install  networkx matplotlib PySide2 numpy reportlab graphviz
 # Run the application
 
 ~~~
-git clone project_repo.git
+git clone https://github.com/SEWS19/Motivo-GUI.git
 python3 main.py
 ~~~
